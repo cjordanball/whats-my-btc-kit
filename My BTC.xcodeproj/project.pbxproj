@@ -16,7 +16,6 @@
 		A93EF95326A62DB700F9B825 /* CoinModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93EF95226A62DB700F9B825 /* CoinModel.swift */; };
 		A93EF95526A62E1C00F9B825 /* CoinData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93EF95426A62E1C00F9B825 /* CoinData.swift */; };
 		A93EF95726A62E6E00F9B825 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93EF95626A62E6E00F9B825 /* Constants.swift */; };
-		A93EF95926A62EFF00F9B825 /* Private.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93EF95826A62EFF00F9B825 /* Private.swift */; };
 		A9D0F27726A6377700EFDDA9 /* CoinManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9D0F27626A6377700EFDDA9 /* CoinManager.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,7 +31,6 @@
 		A93EF95226A62DB700F9B825 /* CoinModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinModel.swift; sourceTree = "<group>"; };
 		A93EF95426A62E1C00F9B825 /* CoinData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinData.swift; sourceTree = "<group>"; };
 		A93EF95626A62E6E00F9B825 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		A93EF95826A62EFF00F9B825 /* Private.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Private.swift; sourceTree = "<group>"; };
 		A9D0F27626A6377700EFDDA9 /* CoinManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -74,7 +72,6 @@
 				A93EF94426A5A90F00F9B825 /* Assets.xcassets */,
 				A93EF94926A5A90F00F9B825 /* Info.plist */,
 				A93EF95626A62E6E00F9B825 /* Constants.swift */,
-				A93EF95826A62EFF00F9B825 /* Private.swift */,
 			);
 			path = "My BTC";
 			sourceTree = "<group>";
@@ -179,7 +176,6 @@
 				A9D0F27726A6377700EFDDA9 /* CoinManager.swift in Sources */,
 				A93EF95326A62DB700F9B825 /* CoinModel.swift in Sources */,
 				A93EF94026A5A90B00F9B825 /* ViewController.swift in Sources */,
-				A93EF95926A62EFF00F9B825 /* Private.swift in Sources */,
 				A93EF95526A62E1C00F9B825 /* CoinData.swift in Sources */,
 				A93EF93C26A5A90B00F9B825 /* AppDelegate.swift in Sources */,
 				A93EF93E26A5A90B00F9B825 /* SceneDelegate.swift in Sources */,
